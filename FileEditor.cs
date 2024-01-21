@@ -1,4 +1,4 @@
-//Currently this is  the original aproch and will marry the 2 concepts together using regex seasrch and binary patching
+//Currently this is  the original aproch and will marry the 2 concepts together using regex search and binary patching
 using UnityEngine;
 using UnityEngine.UI;
 using System;
